@@ -9,6 +9,7 @@ function Test(props) {
                 <li>Blackberry</li>
                 <li>iphone</li>
                 <li> Samsung</li>
+                <li> Qmobile</li>
                 
             </ul>
         </div>
